@@ -2,7 +2,7 @@
   "main": {
     "name": "Pratik S. Sutar",
     "resumedownload": "images/PratikSutar_DOTNET_resume.pdf",
-    "description": "Results-driven Software Developer with 3.2 years of experience in ASP.NET Core, C#, SQL Server, JavaScript. Skilled in AWS (EC2, S3, IAM, VPC, CloudWatch) and DevOps tools like Docker, Terraform, and Git for CI/CD automation.",
+    "description": "I'm Software Developer with 3.3 years of experience as a Software Developer .NET Fullstack and also experience in DevOps. Knowledge of building, deploying and maintaining cloud environment with focus on different DevOps Tools, CI/CD and AWS Architecture and container technologies. Worked with AWS Services as EC2, S3, CloudWatch, IAM roles, Route53, VPC, SNS, DynamoDB. Automation scripting as shell, python, bash. Experience using configuration management tools like Ansible. Experience in containerization of Asp .Net , Angular, Python applications using Docker and deployed to Kubernetes clusters.",
     "image": "pratiksutar.jpeg",
     "bio": "Results-driven Software Developer with 3.2 years of experience in ASP.NET Core, C#, SQL Server, JavaScript. Skilled in AWS (EC2, S3, IAM, VPC, CloudWatch) and DevOps tools like Docker, Terraform, and Git for CI/CD automation",
     "contactmessage": "Get in touch with me.",
